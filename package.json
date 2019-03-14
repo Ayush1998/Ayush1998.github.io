@@ -2,7 +2,7 @@
   "name": "phonedirectory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ayush1998.github.io",
+  "homepage": "https://Ayush1998.github.io/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "firebase": "^5.8.6",
